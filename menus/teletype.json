@@ -13,10 +13,6 @@
             {
               "label": "Join Portal",
               "command": "teletype:join-portal"
-            },
-            {
-              "label": "Hide Guests",
-              "command": "teletype:hide-guests"
             }
           ]
         }
